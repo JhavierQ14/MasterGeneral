@@ -36,14 +36,9 @@ public class NewMain {
         System.out.println(Persona1.toString());
 
         Persona person1 = new Persona();
-       person1.setEdad(18);
-       System.out.println(person1.esMayor());
-        
-        
-        
-        
-        
-        
+        person1.setEdad(18);
+        System.out.println(person1.esMayor());
+      
 //        Persona Persona2 = new Persona(Persona1.getNombre(), Persona1.getEdad(), Persona1.getSexo());
 ////        System.out.println(Persona1.toString());
 //
@@ -54,15 +49,6 @@ public class NewMain {
 //        Persona3.setPeso(Peso);
 //        Persona3.setAltura(Altura);
 //        
-        
-        
-        
-        
-        
-        
-        
-        
-
 //        System.out.println("Tu nombre es " + Nombre);
 //        System.out.println("Tu edad es " + Edad + " Años ");
 //        System.out.println("Tu sexo es " + Sexo);
